@@ -3,14 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lenovo\\Documents\\GitHub\\Nesne-Tabanli-Programlama-Dersi-Odevi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|KirtasiyeOtomasyonu||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{839A05C8-F3FD-4AA3-9763-F0623F3BBDD8}|classes\\classes.csproj|c:\\users\\lenovo\\documents\\github\\nesne-tabanli-programlama-dersi-odevi\\classes\\\u00E7anta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{839A05C8-F3FD-4AA3-9763-F0623F3BBDD8}|classes\\classes.csproj|solutionrelative:classes\\\u00E7anta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD8A1A0A-7658-492B-9669-69095D08D1D2}|projeee\\KirtasiyeOtomasyonu.csproj|c:\\users\\lenovo\\documents\\github\\nesne-tabanli-programlama-dersi-odevi\\projeee\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{839A05C8-F3FD-4AA3-9763-F0623F3BBDD8}|classes\\classes.csproj|c:\\users\\lenovo\\documents\\github\\nesne-tabanli-programlama-dersi-odevi\\classes\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839A05C8-F3FD-4AA3-9763-F0623F3BBDD8}|classes\\classes.csproj|solutionrelative:classes\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,26 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KirtasiyeOtomasyonu",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\GitHub\\Nesne-Tabanli-Programlama-Dersi-Odevi\\projeee\\KirtasiyeOtomasyonu.csproj",
-              "RelativeDocumentMoniker": "projeee\\KirtasiyeOtomasyonu.csproj",
-              "ToolTip": "C:\\Users\\lenovo\\Documents\\GitHub\\Nesne-Tabanli-Programlama-Dersi-Odevi\\projeee\\KirtasiyeOtomasyonu.csproj",
-              "RelativeToolTip": "projeee\\KirtasiyeOtomasyonu.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-07-22T20:18:33.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\u00E7anta.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\GitHub\\Nesne-Tabanli-Programlama-Dersi-Odevi\\classes\\\u00E7anta.cs",
-              "RelativeDocumentMoniker": "classes\\\u00E7anta.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Documents\\GitHub\\Nesne-Tabanli-Programlama-Dersi-Odevi\\classes\\\u00E7anta.cs",
-              "RelativeToolTip": "classes\\\u00E7anta.cs",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\GitHub\\Nesne-Tabanli-Programlama-Dersi-Odevi\\classes\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "classes\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Documents\\GitHub\\Nesne-Tabanli-Programlama-Dersi-Odevi\\classes\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "classes\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T20:16:43.443Z",
+              "WhenOpened": "2026-07-22T20:36:20.512Z",
               "EditorCaption": ""
             }
           ]
