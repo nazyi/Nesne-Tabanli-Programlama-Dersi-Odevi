@@ -1,0 +1,6 @@
+C:\Users\lenovo\Documents\GitHub\Nesne-Tabanli-Programlama-Dersi-Odevi\classes\bin\Debug\classes.dll
+C:\Users\lenovo\Documents\GitHub\Nesne-Tabanli-Programlama-Dersi-Odevi\classes\bin\Debug\classes.pdb
+C:\Users\lenovo\Documents\GitHub\Nesne-Tabanli-Programlama-Dersi-Odevi\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\Nesne-Tabanli-Programlama-Dersi-Odevi\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\GitHub\Nesne-Tabanli-Programlama-Dersi-Odevi\classes\obj\Debug\classes.dll
+C:\Users\lenovo\Documents\GitHub\Nesne-Tabanli-Programlama-Dersi-Odevi\classes\obj\Debug\classes.pdb
